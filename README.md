@@ -35,7 +35,7 @@
 
 Исследование зависимости миграций от регионов было выполнено следующим образом:
 
-![Анализ миграций по регионам]([images/migration_analysis.png](https://disk.yandex.ru/i/seuNwPnBwlw_iQ)](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20миграций%20по%20регионам.png](https://github.com/mepashka/WorldPopulation2023/blob/72fbc3c4ef5423c2fde48e63b383d8e0f325caa5/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B9%20%D0%BF%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BC.png)
+![Анализ миграций по регионам](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20миграций%20по%20регионам.png)
 
 Из графика видно, что миграции различаются в зависимости от региона, и некоторые регионы имеют значительный вклад в миграционные процессы.
 
@@ -43,7 +43,7 @@
 
 Далее был проведен анализ распределения среднего возраста населения по регионам:
 
-![Анализ среднего возраста по регионам][([images/median_age_analysis.png](https://disk.yandex.ru/i/NChpe0-zxCTPgA)](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20среднего%20возраста%20по%20регионам.png)](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20среднего%20возраста%20по%20регионам.png))
+![Анализ среднего возраста по регионам](https://github.com/mepashka/WorldPopulation2023/blob/0c8d12643634719a0f2d21c88bb6ce9772a16b68/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BC.png)
 
 Из графика видно, что средний возраст населения имеет различия в зависимости от региона.
 
@@ -51,7 +51,7 @@
 
 Исследование доли населения каждой страны относительно всего мира было проведено следующим образом:
 
-![Анализ доли населения]([images/population_share_analysis.png](https://disk.yandex.ru/i/Rw3DnKiIKYGftA))
+![Анализ доли населения]([[images/population_share_analysis.png](https://disk.yandex.ru/i/Rw3DnKiIKYGftA)](https://github.com/mepashka/WorldPopulation2023/blob/0c8d12643634719a0f2d21c88bb6ce9772a16b68/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%BE%D0%BB%D0%B8%20%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.png))
 
 Из графика видно, что небольшое количество стран составляют большую долю населения мира.
 

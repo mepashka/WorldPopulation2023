@@ -51,7 +51,7 @@
 
 Исследование доли населения каждой страны относительно всего мира было проведено следующим образом:
 
-![Анализ доли населения]([[images/population_share_analysis.png](https://disk.yandex.ru/i/Rw3DnKiIKYGftA)](https://github.com/mepashka/WorldPopulation2023/blob/0c8d12643634719a0f2d21c88bb6ce9772a16b68/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%BE%D0%BB%D0%B8%20%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.png))
+![Анализ доли населения](https://github.com/mepashka/WorldPopulation2023/blob/0c8d12643634719a0f2d21c88bb6ce9772a16b68/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%BE%D0%BB%D0%B8%20%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.png)
 
 Из графика видно, что небольшое количество стран составляют большую долю населения мира.
 

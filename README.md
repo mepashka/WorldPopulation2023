@@ -25,7 +25,7 @@
 
 Затем была проведена визуализация распределения населения по регионам:
 
-![Распределение населения по регионам](images/population_by_region.png](https://disk.yandex.ru/i/J5ufBA2mLVwgwA)](https://github.com/mepashka/WorldPopulation2023/blob/main/Распределение%20населения%20по%20регионам.png))
+![Распределение населения по регионам](https://github.com/mepashka/WorldPopulation2023/blob/72fbc3c4ef5423c2fde48e63b383d8e0f325caa5/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BC.png)
 
 Из графика видно, что различные регионы имеют разные доли в общей численности населения.
 
@@ -35,7 +35,7 @@
 
 Исследование зависимости миграций от регионов было выполнено следующим образом:
 
-![Анализ миграций по регионам](images/migration_analysis.png](https://disk.yandex.ru/i/seuNwPnBwlw_iQ)](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20миграций%20по%20регионам.png)
+![Анализ миграций по регионам]([images/migration_analysis.png](https://disk.yandex.ru/i/seuNwPnBwlw_iQ)](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20миграций%20по%20регионам.png](https://github.com/mepashka/WorldPopulation2023/blob/72fbc3c4ef5423c2fde48e63b383d8e0f325caa5/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B9%20%D0%BF%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BC.png)
 
 Из графика видно, что миграции различаются в зависимости от региона, и некоторые регионы имеют значительный вклад в миграционные процессы.
 

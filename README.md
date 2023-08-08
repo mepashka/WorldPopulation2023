@@ -25,7 +25,7 @@
 
 Затем была проведена визуализация распределения населения по регионам:
 
-![Распределение населения по регионам]([images/population_by_region.png](https://disk.yandex.ru/i/J5ufBA2mLVwgwA))
+![Распределение населения по регионам](images/population_by_region.png](https://disk.yandex.ru/i/J5ufBA2mLVwgwA)](https://github.com/mepashka/WorldPopulation2023/blob/main/Распределение%20населения%20по%20регионам.png))
 
 Из графика видно, что различные регионы имеют разные доли в общей численности населения.
 
@@ -35,7 +35,7 @@
 
 Исследование зависимости миграций от регионов было выполнено следующим образом:
 
-![Анализ миграций по регионам]([images/migration_analysis.png](https://disk.yandex.ru/i/seuNwPnBwlw_iQ))
+![Анализ миграций по регионам](images/migration_analysis.png](https://disk.yandex.ru/i/seuNwPnBwlw_iQ)](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20миграций%20по%20регионам.png)
 
 Из графика видно, что миграции различаются в зависимости от региона, и некоторые регионы имеют значительный вклад в миграционные процессы.
 
@@ -43,7 +43,7 @@
 
 Далее был проведен анализ распределения среднего возраста населения по регионам:
 
-![Анализ среднего возраста по регионам]([images/median_age_analysis.png](https://disk.yandex.ru/i/NChpe0-zxCTPgA))
+![Анализ среднего возраста по регионам][([images/median_age_analysis.png](https://disk.yandex.ru/i/NChpe0-zxCTPgA)](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20среднего%20возраста%20по%20регионам.png)](https://github.com/mepashka/WorldPopulation2023/blob/main/Анализ%20среднего%20возраста%20по%20регионам.png))
 
 Из графика видно, что средний возраст населения имеет различия в зависимости от региона.
 
